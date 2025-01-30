@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="4" fill="#191919"/>
+  <path d="M6 8 L12 2 L26 2 L26 30 L12 30 L6 24 Z" fill="#ff758c" opacity="0.8"/>
+  <path d="M10 8 L16 2 L22 2 L22 30 L16 30 L10 24 Z" fill="#191919"/>
+  <path d="M12 11 L15 8 L20 8 L20 24 L15 24 L12 21 Z" fill="#ff758c"/>
+  <text x="14" y="21" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#ffffff">SP</text>
+</svg>
+
